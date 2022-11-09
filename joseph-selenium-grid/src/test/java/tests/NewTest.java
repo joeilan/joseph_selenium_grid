@@ -24,7 +24,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 		  
 		
 			String URL = "https://www.amazon.in";
-	 		String Node = "http://192.168.0.101:4444/wd/hub";
+	 		String Node = "http://192.168.62.202:4444/wd/hub";
 	 		DesiredCapabilities capabilities = new DesiredCapabilities();
 	 		
 	 		
