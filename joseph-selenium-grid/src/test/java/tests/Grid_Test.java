@@ -15,7 +15,7 @@ public class Grid_Test {
 
  		System.setProperty("webdriver.chrome.driver","C:\\chromedriver_win32\\chromedriver.exe");
 		String URL = "https://www.amazon.in";
- 		String Node = "http://192.168.0.101:4444/wd/hub";
+ 		String Node = "http://10.83.120.20:4444/wd/hub";
  		DesiredCapabilities capabilities = new DesiredCapabilities();
  		
  		
